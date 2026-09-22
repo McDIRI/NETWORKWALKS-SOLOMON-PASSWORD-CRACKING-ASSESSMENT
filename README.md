@@ -46,7 +46,9 @@ The simulator's first run (100-word list / fasttrack.txt) returned `ACCESS DENIE
 | pdf2 | `password1` | `Password1` | `nw{networkwalks_persistence_jtr_270521}` |
 | pdf3 | `1qaz2wsx` | `1qaz2wsx` | `nw{networkwalks_flag_260821_1}` |
 
-All three cracked with both tools. Screenshots: [`/evidence`](./evidence)
+## SCREENSHOT EVIDENCE
+
+
 
 ## Key Takeaways
 
