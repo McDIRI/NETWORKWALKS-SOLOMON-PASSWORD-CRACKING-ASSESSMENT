@@ -1,4 +1,4 @@
-# # 🔐 PDF Password Cracking Lab — John the Ripper vs. NetworkWalks Cracker
+# # 🔐 PDF PASSWORD CRACKING LAB — USING JOHN THE RIPPER AND NETWORKWALKS WEB BASED PASSWORD CRACKER .
 
 Dictionary-attack recovery of password-protected PDFs, comparing **John the Ripper** (Johnny GUI) against **NetworkWalks' browser-based cracker**.
 <p align="center">
