@@ -38,14 +38,6 @@ john --show --format=PDF pdf_hash.txt
 
 The simulator's first run (100-word list / fasttrack.txt) returned `ACCESS DENIED`; a larger wordlist against John the Ripper cracked all three targets.
 
-## Results
-
-| Target | JtR Password | Cracker Password | Flag |
-|---|---|---|---|
-| pdf1 | `good-luck` | `Password1` | `nw{cybersecurity_flag_captured_2608}` |
-| pdf2 | `password1` | `Password1` | `nw{networkwalks_persistence_jtr_270521}` |
-| pdf3 | `1qaz2wsx` | `1qaz2wsx` | `nw{networkwalks_flag_260821_1}` |
-
 ## Table 1. Results — John the Ripper (Johnny GUI)
 
  | Target File |	Method	| Recovered Password |	Flag Captured |
