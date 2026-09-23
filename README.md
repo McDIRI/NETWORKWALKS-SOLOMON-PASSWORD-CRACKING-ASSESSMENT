@@ -46,6 +46,22 @@ The simulator's first run (100-word list / fasttrack.txt) returned `ACCESS DENIE
 | pdf2 | `password1` | `Password1` | `nw{networkwalks_persistence_jtr_270521}` |
 | pdf3 | `1qaz2wsx` | `1qaz2wsx` | `nw{networkwalks_flag_260821_1}` |
 
+## Table 1. Results — John the Ripper (Johnny GUI)
+
+ | Target File |	Method	| Recovered Password |	Flag Captured |
+ |---|---|---|---|
+ | My locked pdf1.pdf	| John the Ripper (Johnny GUI),dictionary mode |	good-luck |	nw{cybersecurity_flag_captured_2608} |
+ | My locked pdf2.pdf	| John the Ripper (Johnny GUI), dictionary mode |	password1 |	nw{networkwalks_persistence_jtr_270521} |
+ | My locked pdf3.pdf	| John the Ripper (Johnny GUI), dictionary mode |	1qaz2wsx |	nw{networkwalks_flag_260821_1} |
+
+## Table 2. Results — NetworkWalks Online Password Cracker 
+
+| Target File |	Method |	Recovered Password |	Flag Captured |
+|---|---|---|---|
+| My locked pdf1.pdf |	NetworkWalks online cracker |	Password1 |	nw{networkwalks_flag1_jtr_270521_1} |
+| My locked pdf2.pdf |	NetworkWalks online cracker |	Password1 |	nw{networkwalks_persistence_jtr_270521} |
+| My locked pdf3.pdf |	NetworkWalks online cracker |	1qaz2wsx	| nw{networkwalks_flag_260821_1} |
+
 ## SCREENSHOT EVIDENCE
 
 
