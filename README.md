@@ -46,6 +46,16 @@ The simulator's first run (100-word list / fasttrack.txt) returned `ACCESS DENIE
  | My locked pdf2.pdf	| John the Ripper (Johnny GUI), dictionary mode |	password1 |	nw{networkwalks_persistence_jtr_270521} |
  | My locked pdf3.pdf	| John the Ripper (Johnny GUI), dictionary mode |	1qaz2wsx |	nw{networkwalks_flag_260821_1} |
 
+## SCREENSHOT EVIDENCE
+![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-PASSWORD-CRACKING-ASSESSMENT/blob/23827de69d84d3bd59e8f3cf9f5355e9c9546b83/JOHNTHERIPPER/Screenshot%20(101).png
+)
+![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-PASSWORD-CRACKING-ASSESSMENT/blob/23827de69d84d3bd59e8f3cf9f5355e9c9546b83/JOHNTHERIPPER/Screenshot%20(102).png)
+![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-PASSWORD-CRACKING-ASSESSMENT/blob/23827de69d84d3bd59e8f3cf9f5355e9c9546b83/JOHNTHERIPPER/Screenshot%20(106).png)
+![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-PASSWORD-CRACKING-ASSESSMENT/blob/23827de69d84d3bd59e8f3cf9f5355e9c9546b83/JOHNTHERIPPER/Screenshot%20(107).png)
+![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-PASSWORD-CRACKING-ASSESSMENT/blob/23827de69d84d3bd59e8f3cf9f5355e9c9546b83/JOHNTHERIPPER/Screenshot%20(108).png
+)
+![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-PASSWORD-CRACKING-ASSESSMENT/blob/23827de69d84d3bd59e8f3cf9f5355e9c9546b83/JOHNTHERIPPER/Screenshot%20(109).png)
+
 ## Table 2. Results — NetworkWalks Online Password Cracker 
 
 | Target File |	Method |	Recovered Password |	Flag Captured |
@@ -55,7 +65,12 @@ The simulator's first run (100-word list / fasttrack.txt) returned `ACCESS DENIE
 | My locked pdf3.pdf |	NetworkWalks online cracker |	1qaz2wsx	| nw{networkwalks_flag_260821_1} |
 
 ## SCREENSHOT EVIDENCE
-
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
 
 
 ## Key Takeaways
