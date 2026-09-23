@@ -18,6 +18,7 @@ Dictionary-attack recovery of password-protected PDFs, comparing **John the Ripp
 Training lab · NetworkWalks Cybersecurity Internship (Batch B083) · No production data involved.
 Full write-up: [`Password_Security_Assessment_Report.docx`](./Password_Security_Assessment_Report.docx)
 
+---
 ## Tools
 
 - **John the Ripper** `1.9.0-jumbo-1` (Johnny GUI)
@@ -25,6 +26,7 @@ Full write-up: [`Password_Security_Assessment_Report.docx`](./Password_Security_
 - **[NetworkWalks Password Cracker](https://networkwalks.com/password-cracker/)** — browser simulator
 - Wordlists: `fasttrack.txt` (221 words) + a larger breach-derived dictionary
 
+---
 ## Method
 
 ```bash
@@ -38,6 +40,7 @@ john --show --format=PDF pdf_hash.txt
 
 The simulator's first run (100-word list / fasttrack.txt) returned `ACCESS DENIED`; a larger wordlist against John the Ripper cracked all three targets.
 
+---
 ## Table 1. Results — John the Ripper (Johnny GUI)
 
  | Target File |	Method	| Recovered Password |	Flag Captured |
@@ -56,6 +59,7 @@ The simulator's first run (100-word list / fasttrack.txt) returned `ACCESS DENIE
 )
 ![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-PASSWORD-CRACKING-ASSESSMENT/blob/23827de69d84d3bd59e8f3cf9f5355e9c9546b83/JOHNTHERIPPER/Screenshot%20(109).png)
 
+---
 ## Table 2. Results — NetworkWalks Online Password Cracker 
 
 | Target File |	Method |	Recovered Password |	Flag Captured |
@@ -72,7 +76,7 @@ The simulator's first run (100-word list / fasttrack.txt) returned `ACCESS DENIE
 ![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-PASSWORD-CRACKING-ASSESSMENT/blob/ca45960d0aa06dc3e772b32cbfd66d2b72060e9a/NETWORKWALKSCRACKER/Screenshot%20(128).png)
 ![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-PASSWORD-CRACKING-ASSESSMENT/blob/ca45960d0aa06dc3e772b32cbfd66d2b72060e9a/NETWORKWALKSCRACKER/Screenshot%20(129).png)
 
-
+---
 ## Key Takeaways
 
 - All recovered passwords were common, low-entropy strings — trivial once the right wordlist is used.
@@ -80,6 +84,7 @@ The simulator's first run (100-word list / fasttrack.txt) returned `ACCESS DENIE
 - `1qaz2wsx` looks complex but is a keyboard-walk pattern in every major breach wordlist.
 - Extracting a `$pdf$` hash never modifies the original file — safe to repeat offline.
 
+---
 ## Mitigations
 
 - Use long, random passphrases — avoid dictionary words and keyboard-walk patterns.
@@ -93,4 +98,15 @@ The simulator's first run (100-word list / fasttrack.txt) returned `ACCESS DENIE
 All files, passwords, and flags belong to a controlled NetworkWalks training lab — shared for educational purposes only.
 
 ---
-**Author:** Solomon Isaiah Diri
+# 👤 Author
+
+**Solomon Diri**\
+Cybersecurity Inten @[ NETWORKWALKS ](https://networkwalks.com/) B083
+
+LinkedIn: [https://www.linkedin.com/in/mcdiri/](https://www.linkedin.com/in/mcdiri/)
+
+---
+
+## 📌 Project Information
+
+**Program Name:** Cybersecurity at Networkwalks | **Week:** 03 | **Project:** PDF Password Cracking | **Repository:** GitHub
