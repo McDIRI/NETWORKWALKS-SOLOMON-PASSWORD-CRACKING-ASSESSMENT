@@ -15,8 +15,8 @@ Dictionary-attack recovery of password-protected PDFs, comparing **John the Ripp
   <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Solomon%20Diri%20INTERN-C00000?style=flat-square" />
 </p>
-Training lab · NetworkWalks Cybersecurity Internship (Batch B083) · No production data involved.
-Full write-up: [`Password_Security_Assessment_Report.docx`](./Password_Security_Assessment_Report.docx)
+Training lab · NetworkWalks Cybersecurity Internship (Batch B083) · .
+Full write-up: [`Password_Security_Assessment_Report.docx`]
 
 ---
 ## Tools
