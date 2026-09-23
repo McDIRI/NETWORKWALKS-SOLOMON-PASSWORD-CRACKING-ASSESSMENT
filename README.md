@@ -65,12 +65,12 @@ The simulator's first run (100-word list / fasttrack.txt) returned `ACCESS DENIE
 | My locked pdf3.pdf |	NetworkWalks online cracker |	1qaz2wsx	| nw{networkwalks_flag_260821_1} |
 
 ## SCREENSHOT EVIDENCE
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-PASSWORD-CRACKING-ASSESSMENT/blob/ca45960d0aa06dc3e772b32cbfd66d2b72060e9a/NETWORKWALKSCRACKER/Screenshot%20(121).png)
+![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-PASSWORD-CRACKING-ASSESSMENT/blob/ca45960d0aa06dc3e772b32cbfd66d2b72060e9a/NETWORKWALKSCRACKER/Screenshot%20(122).png)
+![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-PASSWORD-CRACKING-ASSESSMENT/blob/ca45960d0aa06dc3e772b32cbfd66d2b72060e9a/NETWORKWALKSCRACKER/Screenshot%20(124).png)
+![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-PASSWORD-CRACKING-ASSESSMENT/blob/ca45960d0aa06dc3e772b32cbfd66d2b72060e9a/NETWORKWALKSCRACKER/Screenshot%20(126).png)
+![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-PASSWORD-CRACKING-ASSESSMENT/blob/ca45960d0aa06dc3e772b32cbfd66d2b72060e9a/NETWORKWALKSCRACKER/Screenshot%20(128).png)
+![image alt](https://github.com/McDIRI/NETWORKWALKS-SOLOMON-PASSWORD-CRACKING-ASSESSMENT/blob/ca45960d0aa06dc3e772b32cbfd66d2b72060e9a/NETWORKWALKSCRACKER/Screenshot%20(129).png)
 
 
 ## Key Takeaways
