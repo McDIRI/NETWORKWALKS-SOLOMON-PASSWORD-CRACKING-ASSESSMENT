@@ -24,6 +24,7 @@ Full write-up: [`Password_Security_Assessment_Report.docx`]
 - **John the Ripper** `1.9.0-jumbo-1` (Johnny GUI)
 - **pdf2john.pl** / [Online HashCrack](https://hashcrack.online/) — `$pdf$` hash extraction
 - **[NetworkWalks Password Cracker](https://networkwalks.com/password-cracker/)** — browser simulator
+- **[Networkwalks Hash Calculator](https://networkwalks.com/hash-calculator/)** -hash extraction
 - Wordlists: `fasttrack.txt` (221 words) + a larger breach-derived dictionary
 
 ---
