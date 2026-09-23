@@ -101,7 +101,7 @@ All files, passwords, and flags belong to a controlled NetworkWalks training lab
 # 👤 Author
 
 **Solomon Diri**\
-Cybersecurity Inten @[ NETWORKWALKS ](https://networkwalks.com/) B083
+Cybersecurity Intern @[ NETWORKWALKS ](https://networkwalks.com/) B083
 
 LinkedIn: [https://www.linkedin.com/in/mcdiri/](https://www.linkedin.com/in/mcdiri/)
 
